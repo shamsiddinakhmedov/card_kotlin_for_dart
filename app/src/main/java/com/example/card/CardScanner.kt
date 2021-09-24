@@ -4,8 +4,6 @@ import android.annotation.SuppressLint
 import android.os.CountDownTimer
 import androidx.camera.core.ImageAnalysis
 import androidx.camera.core.ImageProxy
-import com.example.card.onCardScanFailed
-import com.example.card.onCardScanned
 import com.google.mlkit.vision.common.InputImage
 import com.google.mlkit.vision.text.TextRecognition
 import com.nateshmbhat.card_scanner.SingleFrameCardScanner
